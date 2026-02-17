@@ -1,0 +1,36 @@
+public class s{
+    Public static void main(String[] args) {
+	    // whole number primitive data type
+       byte age = 30 ;
+	   system.out.pointf("I am %d years old%n",age);
+	   
+	   short quantityofBags = 10000;
+	   system.out.printf("The quantity of bag ordered is %d",quantityofBags);
+	   
+	   
+	   int nigeriapopulation = 2000000000;
+	   system.out.printf("The population of Nigeria ia %d",nigeriapopulation);
+	   
+	   
+	   long worldspopulation = 900000000000L;
+	   system.out.printf("The worlds population is %d",worldspopulation);
+	   
+	   //float-point primitive data type 
+	   float myBalance = 6945.6000057F;
+	   system.out.printf("My Account balance is %.2",myBalance);
+	   
+	   double cBNBalance = 987446664.904;
+	   system.out.printf("CBN account balance is %f%n",cBNBalance);
+	   
+	   // single character primitive datatype
+	   char system = '$';
+	   system.out.pointf("My Account balance is %c%.2f%n",myBalance);
+	   
+	   //boolean primitive data type
+	   boolean isjavaFun = true;
+	   system.out.printf("Do you love learning Java? %b%n" ,isjavaFun);
+	   
+	  
+	   
+	} 
+	
